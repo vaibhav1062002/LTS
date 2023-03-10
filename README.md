@@ -12,6 +12,6 @@ i created  this website in
  
   stp 2 :  open terminal and type command  ---> npm run dev
   
-    stp 3 : opne browser and type --> http://localhost:2000/#contactid
+    stp 3 : opne browser and type --> http://localhost:2000
   
  
